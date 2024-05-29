@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "voice-assistant"
+version = "0.1.0"
+description = ""
+authors = ["razanalshbaha <razanalshabah19@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.2.1"
+langchain-openai = "^0.1.7"
+fastapi = "^0.111.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
