@@ -159,4 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
+token.json
+calenderToken.json
+calenderToken.json
+calenderCredentials.json
+credentials.json
 config.ini
